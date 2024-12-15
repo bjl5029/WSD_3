@@ -131,8 +131,8 @@ pip install -r requirements.txt
 ---
 
 ## DB 데이터 추가 스크립트: `crawling2db.py`
-이 스크립트는 1시간에 한 번 씩 모든 검색 키워드 리스트를 pages 만큼 순회하며 크롤링 후 DB에 추가한다.
-DB에 데이터 추가 시 중복된 데이터는 무시되며 크롤링 결과는 saramin_{keyword}.csv에, DB 데이터 추가 로그는 db_loader.log에 저장된다.
+이 스크립트는 1시간에 한 번 씩 모든 검색 키워드 리스트를 pages 만큼 순회하며 크롤링 후 DB에 추가함.
+DB에 데이터 추가 시 중복된 데이터는 무시되며 크롤링 결과는 saramin_{keyword}.csv에, DB 데이터 추가 로그는 db_loader.log에 저장됨.
 
 
 ### 권장 실행 환경
