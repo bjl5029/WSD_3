@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 이 프로젝트는 **MySQL 데이터베이스**를 기반으로 Python **3.12**에서 개발된 백엔드 서비스임.
-FastAPI를 사용하여 RESTful API를 제공하며, Swagger를 통해 API 문서를 제공.
+FastAPI를 사용하여 RESTful API를 제공하며, Swagger를 통해 API 문서를 제공함.
 
 백엔드 서버와 DB 서버를 분리하여 구성할 것을 상정하여 개발됨.
 
